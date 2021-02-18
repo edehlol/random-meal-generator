@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/random-meal-generator/static/css/main.8818676d.chunk.css",
+    "main.js": "/random-meal-generator/static/js/main.66e4fe0e.chunk.js",
+    "main.js.map": "/random-meal-generator/static/js/main.66e4fe0e.chunk.js.map",
+    "runtime-main.js": "/random-meal-generator/static/js/runtime-main.29ae56fe.js",
+    "runtime-main.js.map": "/random-meal-generator/static/js/runtime-main.29ae56fe.js.map",
+    "static/js/2.0ff9e608.chunk.js": "/random-meal-generator/static/js/2.0ff9e608.chunk.js",
+    "static/js/2.0ff9e608.chunk.js.map": "/random-meal-generator/static/js/2.0ff9e608.chunk.js.map",
+    "index.html": "/random-meal-generator/index.html",
+    "static/css/main.8818676d.chunk.css.map": "/random-meal-generator/static/css/main.8818676d.chunk.css.map",
+    "static/js/2.0ff9e608.chunk.js.LICENSE.txt": "/random-meal-generator/static/js/2.0ff9e608.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29ae56fe.js",
+    "static/js/2.0ff9e608.chunk.js",
+    "static/css/main.8818676d.chunk.css",
+    "static/js/main.66e4fe0e.chunk.js"
+  ]
+}
